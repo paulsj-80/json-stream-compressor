@@ -1,0 +1,4 @@
+{"key1": "dudu1", "key2": 1231, "key3": 0.01, "key4": true}
+{"key1": "dudu2", "key2": 1232, "key3": 0.02, "key4": false}
+{"key1": "dudu3", "key2": 1233, "key3": 0.03, "key4": true}
+{"key1": "dudu4", "key2": 1234, "key3": 0.04, "key4": false}

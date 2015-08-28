@@ -1,0 +1,3 @@
+[submodule "lib/fast-json-parser"]
+	path = lib/fast-json-parser
+	url = https://github.com/paulsj-80/fast-json-parser.git
